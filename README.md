@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cody!<br/>
-<a href="https://www.linkedin.com/in/cody-alexander-833536317/">Computer Scientist</a> | 
-<a href="https://github.com/yourusername">Programmer</a> | 
+<a href="https://github.com/Cody-Alexander">Programmer</a> | 
+<a href="https://www.linkedin.com/in/cody-alexander-833536317/">ProgrammerComputer Scientist</a> | 
 <a href="https://www.linkedin.com/in/cody-alexander-833536317/">AI Enthusiast</a> | 
 Student</h1>
 
