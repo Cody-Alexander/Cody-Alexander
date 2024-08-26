@@ -35,46 +35,46 @@ Student</h1>
   <details>
   <summary>🐍 Python</summary>
   
-  - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Data Structures and Algorithms Demo)]()
   
 </details>
 
 <details>
   <summary>☕ Java</summary>
   
-  - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Data Structures and Algorithms Demo)]()
   
 </details>
 
 <details>
   <summary>📊 R</summary>
   
-  - [Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Project]()
   
 </details>
 
 <details>
   <summary>🔧 C/C++</summary>
   
-  - [Project 1](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Project 2](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Project 3](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Project 1]()
+  - [Project 2]()
+  - [Project 3]()
   
 </details>
 
 <details>
   <summary>🌐 HTML/CSS</summary>
   
-  - [Project 1](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Project 2](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Project 3](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Project 1]()
+  - [Project 2]()
+  - [Project 3]()
   
 </details>
 
 <details>
   <summary>🐘 PHP</summary>
   
-  - [Project 1](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Project 1]()
   
 </details>
 
