@@ -6,7 +6,7 @@ Student</h1>
 
 <p><b>I am an AI specialist eager to drive innovative solutions and contribute to impactful projects in the tech industry. Currently pursuing a Bachelor's in Computer Science at Victoria University, I am seeking an internship to apply the knowledge and skills I've developed through my studies.</b></p>
 
-<h2>🧰 Languages and Tools</h2>
+<h2>⚙️ Languages and Tools</h2>
 
 <p>
 <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />                   
