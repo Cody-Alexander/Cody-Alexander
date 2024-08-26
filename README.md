@@ -9,23 +9,23 @@ Student</h1>
 <h2>🧰 Languages and Tools</h2>
 
 <p>
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="SolidWorks" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" />
-<img align="left" alt="Fusion 360" width="22px" src="https://img.icons8.com/color/48/000000/autodesk-fusion-360.png" />
-<img align="left" alt="Blender" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-<img align="left" alt="Meshmixer" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meshmixer/meshmixer-original.svg" />
-<img align="left" alt="RStudio" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="Altium Designer" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altium/altium-original.svg" />
-<img align="left" alt="PyTorch" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="TensorFlow" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />                   
+<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                   
+<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                   
+<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />                   
+<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />                   
+<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />                   
+<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                   
+<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />                   
+<img align="left" alt="SolidWorks" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" />
+<img align="left" alt="Fusion 360" width="22px" src="https://img.icons8.com/color/48/000000/autodesk-fusion-360.png" />                   
+<img align="left" alt="Blender" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />                   
+<img align="left" alt="Meshmixer" width="22px" src="https://raw.githubusercontent.com/codyalexander/Meshmixer.svg" />                                                   
+<img align="left" alt="RStudio" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />                   
+<img align="left" alt="Altium Designer" width="22px" src="" />
+<img align="left" alt="PyTorch" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />                   
+<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                   
+<img align="left" alt="TensorFlow" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />                   
 </p>
 <br clear="left"/>
 
