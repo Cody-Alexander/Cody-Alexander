@@ -35,46 +35,35 @@ Student</h1>
   <details>
   <summary>🐍 Python</summary>
   
-  - [Package Delivery Application (Data Structures and Algorithms Demo)]()
+  - [Project1]()
   
 </details>
 
 <details>
   <summary>☕ Java</summary>
   
-  - [Package Delivery Application (Data Structures and Algorithms Demo)]()
+  - [Project1]()
   
 </details>
 
 <details>
   <summary>📊 R</summary>
   
-  - [Project]()
+  - [Project1]()
   
 </details>
 
 <details>
   <summary>🔧 C/C++</summary>
   
-  - [Project 1]()
-  - [Project 2]()
-  - [Project 3]()
+  - [Autonomous Vehicle Challange (AVC)]()
   
 </details>
 
 <details>
   <summary>🌐 HTML/CSS</summary>
   
-  - [Project 1]()
-  - [Project 2]()
-  - [Project 3]()
-  
-</details>
-
-<details>
-  <summary>🐘 PHP</summary>
-  
-  - [Project 1]()
+  - [NewZealand Rivers Website]()
   
 </details>
 
