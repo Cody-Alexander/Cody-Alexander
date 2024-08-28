@@ -35,7 +35,7 @@ Student</h1>
   <details>
   <summary>🐍 Python</summary>
   
-  - [Project1]()
+  - [Data analysis and manipulation examples]()
   
 </details>
 
@@ -49,7 +49,7 @@ Student</h1>
 <details>
   <summary>📊 R</summary>
   
-  - [Project1]()
+  - [Data analysis and manipulation examples]()
   
 </details>
 
