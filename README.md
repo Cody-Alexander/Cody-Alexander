@@ -35,7 +35,7 @@ Student</h1>
   <details>
   <summary>🐍 Python</summary>
   
-  - [Data analysis and manipulation examples]()
+  - [Face-And-Emotion-Recognition](https://github.com/Cody-Alexander/Face-And-Emotion-Recognition)
   
 </details>
 
