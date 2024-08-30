@@ -63,7 +63,7 @@ Student</h1>
 <details>
   <summary>🌐 HTML/CSS</summary>
   
-  - [NewZealand Rivers Website]()
+  - [NewZealand Rivers Website](https://github.com/Cody-Alexander/NewZealand-Rivers-Web)
   
 </details>
 
