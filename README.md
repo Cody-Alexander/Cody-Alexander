@@ -37,6 +37,7 @@ Student</h1>
   
   - [Face-And-Emotion-Recognition](https://github.com/Cody-Alexander/Face-And-Emotion-Recognition)
   - [Hand-Tracking-System](https://github.com/Cody-Alexander/Hand-Tracking-System)
+  - [Object-Detecion-System](https://github.com/Cody-Alexander/Object-Detecion-System)
   
 </details>
 
