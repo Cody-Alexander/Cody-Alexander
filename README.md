@@ -38,27 +38,33 @@ Student</h1>
   - [Face-And-Emotion-Recognition](https://github.com/Cody-Alexander/Face-And-Emotion-Recognition)
   - [Hand-Tracking-System](https://github.com/Cody-Alexander/Hand-Tracking-System)
   - [Object-Detecion-System](https://github.com/Cody-Alexander/Object-Detecion-System)
+  - [Data analysis, representation, classifying etc using ML techniques in AIML231 and AIML232]
   
 </details>
 
 <details>
   <summary>☕ Java</summary>
-  
-  - [Project1]()
+
+  - [Basic java weekly assignments in COMP112 and COMP103]
+  - [Parser and interpreter program for COMP261]
+  - [AStar search, Connected Components and Articulation Points program in COMP261]
+  - [Network Flows and Centrality(EdmondKarp and PageRank) in COMP261]
+  - [String Search, Huffman coding, Lempel-Ziv compression, and Boyer-Moore string search program in COMP261]
   
 </details>
 
 <details>
   <summary>📊 R</summary>
   
-  - [Data analysis and manipulation examples]()
+  - [Data analysis and manipulation in STAT292]
+  - [Basic R use, programs, and data analysis and manipulation in DATA202]
   
 </details>
 
 <details>
   <summary>🔧 C/C++</summary>
   
-  - [Autonomous Vehicle Challange (AVC)(Private)]()
+  - [Autonomous Vehicle Challange (AVC)(completed in ENGR110)]
   
 </details>
 
