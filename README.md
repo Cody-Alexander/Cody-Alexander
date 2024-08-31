@@ -65,6 +65,7 @@ Student</h1>
   <summary>🔧 C/C++</summary>
   
   - [Autonomous Vehicle Challange (AVC)(completed in ENGR110)]
+  - [Noise generator in ENGR110]
   
 </details>
 
