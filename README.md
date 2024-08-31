@@ -36,6 +36,7 @@ Student</h1>
   <summary>🐍 Python</summary>
   
   - [Face-And-Emotion-Recognition](https://github.com/Cody-Alexander/Face-And-Emotion-Recognition)
+  - [Hand-Tracking-System](https://github.com/Cody-Alexander/Hand-Tracking-System)
   
 </details>
 
@@ -56,7 +57,7 @@ Student</h1>
 <details>
   <summary>🔧 C/C++</summary>
   
-  - [Autonomous Vehicle Challange (AVC)]()
+  - [Autonomous Vehicle Challange (AVC)(Private)]()
   
 </details>
 
