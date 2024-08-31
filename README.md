@@ -65,7 +65,8 @@ Student</h1>
   <summary>🔧 C/C++</summary>
   
   - [Autonomous Vehicle Challange (AVC)(completed in ENGR110)]
-  - [Noise generator in ENGR110]
+  - [Noise Generator In ENGR110]
+  - [Security Camera System Monitoring The Location Of a Ruby In ENGR110]
   
 </details>
 
